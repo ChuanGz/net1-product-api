@@ -465,11 +465,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/nhantathanh/Downloads/CMCG-Working-2023/dotNet_DEV/KendyMarch/net1-product-api/Product.Api/Product.Api.csproj",
+      "projectUniqueName": "/Users/nhantathanh/Data/SourceExtracted/net1-product-api/Product.Api/Product.Api.csproj",
       "projectName": "Product.Api",
-      "projectPath": "/Users/nhantathanh/Downloads/CMCG-Working-2023/dotNet_DEV/KendyMarch/net1-product-api/Product.Api/Product.Api.csproj",
+      "projectPath": "/Users/nhantathanh/Data/SourceExtracted/net1-product-api/Product.Api/Product.Api.csproj",
       "packagesPath": "/Users/nhantathanh/.nuget/packages/",
-      "outputPath": "/Users/nhantathanh/Downloads/CMCG-Working-2023/dotNet_DEV/KendyMarch/net1-product-api/Product.Api/obj/",
+      "outputPath": "/Users/nhantathanh/Data/SourceExtracted/net1-product-api/Product.Api/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/nhantathanh/.nuget/NuGet/NuGet.Config"
